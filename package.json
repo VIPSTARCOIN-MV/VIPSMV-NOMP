@@ -1,5 +1,5 @@
 {
-    "name": "vips-nomp",
+    "name": "vipsmv-nomp",
     "version": "0.0.4",
     "description": "An extremely efficient, highly scalable, all-in-one, easy to setup cryptocurrency mining pool",
     "keywords": [
@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/vipstar-dev/VIPS-NOMP",
+    "homepage": "https://github.com/VIPSTARCOIN-MV/VIPSMV-NOMP",
     "bugs": {
-        "url": "https://github.com/vipstar-dev/VIPS-NOMP/issues"
+        "url": "https://github.com/VIPSTARCOIN-MV/VIPSMV-NOMP/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -28,10 +28,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vipstar-dev/VIPS-NOMP.git"
+        "url": "https://github.com/VIPSTARCOIN-MV/VIPSMV-NOMP.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/vipstar-dev/node-stratum-pool-vips.git#vips2",
+        "stratum-pool": "git://github.com/VIPSTARCOIN-MV/node-stratum-pool-vipsmv.git#vips3",
         "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "0.12.1",
